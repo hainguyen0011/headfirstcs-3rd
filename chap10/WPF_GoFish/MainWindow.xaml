@@ -52,7 +52,6 @@
                     Margin="5,0"
                     Background="#FFE3F0FF"
                     Click="startButton_Click" />
-
         </StackPanel>
         <TextBlock HorizontalAlignment="Left"
                    Margin="0,10,0,0"
@@ -79,7 +78,7 @@
         <ScrollViewer Grid.Row="5"
                       Background="White"
                       Grid.RowSpan="2"
-                      Content="{Binding Books}"/>
+                      Content="{Binding Books}" />
         <TextBlock HorizontalAlignment="Left"
                    Margin="0,10,0,0"
                    TextWrapping="Wrap"

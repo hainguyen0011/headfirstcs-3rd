@@ -14,10 +14,27 @@ namespace WPF_GoFish
         private Random random;
         private Deck cards;
         public int CardCount { get { return cards.Count; } }
-        public void TakeCard(Card card) { cards.Add(card); }
-        public IEnumerable<string> GetCardNames() { return cards.GetCardNames(); }
-        public Card Peek(int cardNumber) { return cards.Peek(cardNumber); }
-        public void SortHand() { cards.SortByValue(); }
+
+        public void TakeCard(Card card)
+        {
+            cards.Add(card);
+        }
+
+        public IEnumerable<string> GetCardNames()
+        {
+            return cards.GetCardNames();
+        }
+
+        public Card Peek(int cardNumber)
+        {
+            return cards.Peek(cardNumber);
+        }
+
+        public void SortHand()
+        {
+            cards.SortByValue();
+        }
+
         public Player(String name, Random random, Game game)
         {
             // The constructor for the Player class initializes four private fields, and then
@@ -31,6 +48,7 @@ namespace WPF_GoFish
             this.game.AddProgress(Name + " has just joined the game");
             //textBoxOnForm.Text += Name + " has just joined the game" + Environment.NewLine;
         }
+
         public IEnumerable<Values> PullOutBooks()
         {
             List<Values> books = new List<Values>();
@@ -49,6 +67,7 @@ namespace WPF_GoFish
             }
             return books;
         }
+
         public Values GetRandomValue()
         {
             // This method gets a random value—but it has to be a value  that's in the deck!
@@ -57,6 +76,7 @@ namespace WPF_GoFish
             Values randVal = cards.Peek(randNum).Value;
             return randVal;
         }
+
         public Deck DoYouHaveAny(Values value)
         {
             // This is where an opponent asks if I have any cards of a certain value
@@ -69,6 +89,7 @@ namespace WPF_GoFish
             //     + Card.Plural(value) + Environment.NewLine;
             return cardsIHave;
         }
+
         public void AskForACard(List<Player> players, int myIndex, Deck stock)
         {
             // Here's an overloaded version of AskForACard()—choose a random value
@@ -78,6 +99,7 @@ namespace WPF_GoFish
                 TakeCard(stock.Deal());
             AskForACard(players, myIndex, stock, GetRandomValue());
         }
+
         public void AskForACard(List<Player> players, int myIndex, Deck stock, Values value)
         {
             // Ask the other players for a value. First add a line to the TextBox: "Joe asks
