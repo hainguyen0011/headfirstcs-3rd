@@ -1,0 +1,10 @@
+F:\Programs\IT\Programming Language\C#\hfcs\chap13\DisposeVsFinalizer\bin\Debug\DisposeVsFinalizer.exe.config
+F:\Programs\IT\Programming Language\C#\hfcs\chap13\DisposeVsFinalizer\bin\Debug\DisposeVsFinalizer.exe
+F:\Programs\IT\Programming Language\C#\hfcs\chap13\DisposeVsFinalizer\bin\Debug\DisposeVsFinalizer.pdb
+F:\Programs\IT\Programming Language\C#\hfcs\chap13\DisposeVsFinalizer\obj\Debug\DisposeVsFinalizer.csprojAssemblyReference.cache
+F:\Programs\IT\Programming Language\C#\hfcs\chap13\DisposeVsFinalizer\obj\Debug\DisposeVsFinalizer.Form1.resources
+F:\Programs\IT\Programming Language\C#\hfcs\chap13\DisposeVsFinalizer\obj\Debug\DisposeVsFinalizer.Properties.Resources.resources
+F:\Programs\IT\Programming Language\C#\hfcs\chap13\DisposeVsFinalizer\obj\Debug\DisposeVsFinalizer.csproj.GenerateResource.cache
+F:\Programs\IT\Programming Language\C#\hfcs\chap13\DisposeVsFinalizer\obj\Debug\DisposeVsFinalizer.csproj.CoreCompileInputs.cache
+F:\Programs\IT\Programming Language\C#\hfcs\chap13\DisposeVsFinalizer\obj\Debug\DisposeVsFinalizer.exe
+F:\Programs\IT\Programming Language\C#\hfcs\chap13\DisposeVsFinalizer\obj\Debug\DisposeVsFinalizer.pdb

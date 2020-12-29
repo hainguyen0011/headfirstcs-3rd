@@ -1,0 +1,10 @@
+F:\Programs\IT\Programming Language\C#\hfcs\chap9\ExcuseManager\bin\Debug\ExcuseManager.exe.config
+F:\Programs\IT\Programming Language\C#\hfcs\chap9\ExcuseManager\bin\Debug\ExcuseManager.exe
+F:\Programs\IT\Programming Language\C#\hfcs\chap9\ExcuseManager\bin\Debug\ExcuseManager.pdb
+F:\Programs\IT\Programming Language\C#\hfcs\chap9\ExcuseManager\obj\Debug\ExcuseManager.csprojAssemblyReference.cache
+F:\Programs\IT\Programming Language\C#\hfcs\chap9\ExcuseManager\obj\Debug\ExcuseManager.Form1.resources
+F:\Programs\IT\Programming Language\C#\hfcs\chap9\ExcuseManager\obj\Debug\ExcuseManager.Properties.Resources.resources
+F:\Programs\IT\Programming Language\C#\hfcs\chap9\ExcuseManager\obj\Debug\ExcuseManager.csproj.GenerateResource.cache
+F:\Programs\IT\Programming Language\C#\hfcs\chap9\ExcuseManager\obj\Debug\ExcuseManager.csproj.CoreCompileInputs.cache
+F:\Programs\IT\Programming Language\C#\hfcs\chap9\ExcuseManager\obj\Debug\ExcuseManager.exe
+F:\Programs\IT\Programming Language\C#\hfcs\chap9\ExcuseManager\obj\Debug\ExcuseManager.pdb

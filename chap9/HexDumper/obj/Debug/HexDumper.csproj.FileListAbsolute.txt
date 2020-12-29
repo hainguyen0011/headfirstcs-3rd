@@ -1,0 +1,7 @@
+F:\Programs\IT\Programming Language\C#\hfcs\chap9\HexDumper\bin\Debug\HexDumper.exe.config
+F:\Programs\IT\Programming Language\C#\hfcs\chap9\HexDumper\bin\Debug\HexDumper.exe
+F:\Programs\IT\Programming Language\C#\hfcs\chap9\HexDumper\bin\Debug\HexDumper.pdb
+F:\Programs\IT\Programming Language\C#\hfcs\chap9\HexDumper\obj\Debug\HexDumper.csprojAssemblyReference.cache
+F:\Programs\IT\Programming Language\C#\hfcs\chap9\HexDumper\obj\Debug\HexDumper.csproj.CoreCompileInputs.cache
+F:\Programs\IT\Programming Language\C#\hfcs\chap9\HexDumper\obj\Debug\HexDumper.exe
+F:\Programs\IT\Programming Language\C#\hfcs\chap9\HexDumper\obj\Debug\HexDumper.pdb

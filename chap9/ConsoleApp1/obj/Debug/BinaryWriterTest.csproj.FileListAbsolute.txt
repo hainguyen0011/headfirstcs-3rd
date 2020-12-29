@@ -1,0 +1,7 @@
+F:\Programs\IT\Programming Language\C#\hfcs\chap9\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+F:\Programs\IT\Programming Language\C#\hfcs\chap9\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+F:\Programs\IT\Programming Language\C#\hfcs\chap9\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+F:\Programs\IT\Programming Language\C#\hfcs\chap9\ConsoleApp1\obj\Debug\BinaryWriterTest.csprojAssemblyReference.cache
+F:\Programs\IT\Programming Language\C#\hfcs\chap9\ConsoleApp1\obj\Debug\BinaryWriterTest.csproj.CoreCompileInputs.cache
+F:\Programs\IT\Programming Language\C#\hfcs\chap9\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+F:\Programs\IT\Programming Language\C#\hfcs\chap9\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

@@ -1,0 +1,17 @@
+E:\Programs\IT\Programming Language\C#\Wpf_HFCS\bin\Debug\netcoreapp3.0\Wpf_HFCS.exe
+E:\Programs\IT\Programming Language\C#\Wpf_HFCS\bin\Debug\netcoreapp3.0\Wpf_HFCS.deps.json
+E:\Programs\IT\Programming Language\C#\Wpf_HFCS\bin\Debug\netcoreapp3.0\Wpf_HFCS.runtimeconfig.json
+E:\Programs\IT\Programming Language\C#\Wpf_HFCS\bin\Debug\netcoreapp3.0\Wpf_HFCS.runtimeconfig.dev.json
+E:\Programs\IT\Programming Language\C#\Wpf_HFCS\bin\Debug\netcoreapp3.0\Wpf_HFCS.dll
+E:\Programs\IT\Programming Language\C#\Wpf_HFCS\bin\Debug\netcoreapp3.0\Wpf_HFCS.pdb
+E:\Programs\IT\Programming Language\C#\Wpf_HFCS\obj\Debug\netcoreapp3.0\Wpf_HFCS.csprojAssemblyReference.cache
+E:\Programs\IT\Programming Language\C#\Wpf_HFCS\obj\Debug\netcoreapp3.0\MainWindow.g.cs
+E:\Programs\IT\Programming Language\C#\Wpf_HFCS\obj\Debug\netcoreapp3.0\App.g.cs
+E:\Programs\IT\Programming Language\C#\Wpf_HFCS\obj\Debug\netcoreapp3.0\Wpf_HFCS_MarkupCompile.cache
+E:\Programs\IT\Programming Language\C#\Wpf_HFCS\obj\Debug\netcoreapp3.0\Wpf_HFCS_MarkupCompile.lref
+E:\Programs\IT\Programming Language\C#\Wpf_HFCS\obj\Debug\netcoreapp3.0\MainWindow.baml
+E:\Programs\IT\Programming Language\C#\Wpf_HFCS\obj\Debug\netcoreapp3.0\Wpf_HFCS.g.resources
+E:\Programs\IT\Programming Language\C#\Wpf_HFCS\obj\Debug\netcoreapp3.0\Wpf_HFCS.AssemblyInfoInputs.cache
+E:\Programs\IT\Programming Language\C#\Wpf_HFCS\obj\Debug\netcoreapp3.0\Wpf_HFCS.AssemblyInfo.cs
+E:\Programs\IT\Programming Language\C#\Wpf_HFCS\obj\Debug\netcoreapp3.0\Wpf_HFCS.dll
+E:\Programs\IT\Programming Language\C#\Wpf_HFCS\obj\Debug\netcoreapp3.0\Wpf_HFCS.pdb

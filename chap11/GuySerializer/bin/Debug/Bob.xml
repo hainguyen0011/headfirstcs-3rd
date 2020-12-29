@@ -1,0 +1,1 @@
+<Guy xmlns="GuySerializer" xmlns:i="http://www.w3.org/2001/XMLSchema-instance"><Age>45</Age><Cash>4.68</Cash><MyCard><Suit>Spades</Suit><Value>Queen</Value></MyCard><Name>Bob</Name></Guy>

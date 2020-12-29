@@ -1,0 +1,12 @@
+E:\Programs\IT\Programming Language\C#\hfcs\chap3\Program 1\bin\Debug\Program 1.exe.config
+E:\Programs\IT\Programming Language\C#\hfcs\chap3\Program 1\bin\Debug\Program 1.exe
+E:\Programs\IT\Programming Language\C#\hfcs\chap3\Program 1\bin\Debug\Program 1.pdb
+E:\Programs\IT\Programming Language\C#\hfcs\chap3\Program 1\bin\Debug\dje\Program 1.resources.dll
+E:\Programs\IT\Programming Language\C#\hfcs\chap3\Program 1\obj\Debug\Program 1.csprojAssemblyReference.cache
+E:\Programs\IT\Programming Language\C#\hfcs\chap3\Program 1\obj\Debug\Program_1.Form1.resources
+E:\Programs\IT\Programming Language\C#\hfcs\chap3\Program 1\obj\Debug\Program_1.Properties.Resources.resources
+E:\Programs\IT\Programming Language\C#\hfcs\chap3\Program 1\obj\Debug\Program_1.Form1.dje.resources
+E:\Programs\IT\Programming Language\C#\hfcs\chap3\Program 1\obj\Debug\Program 1.csproj.GenerateResource.cache
+E:\Programs\IT\Programming Language\C#\hfcs\chap3\Program 1\obj\Debug\dje\Program 1.resources.dll
+E:\Programs\IT\Programming Language\C#\hfcs\chap3\Program 1\obj\Debug\Program 1.exe
+E:\Programs\IT\Programming Language\C#\hfcs\chap3\Program 1\obj\Debug\Program 1.pdb

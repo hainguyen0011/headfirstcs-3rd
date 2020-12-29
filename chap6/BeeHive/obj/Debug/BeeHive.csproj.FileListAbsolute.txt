@@ -1,0 +1,10 @@
+F:\Programs\IT\Programming Language\C#\hfcs\chap6\BeeHive\bin\Debug\BeeHive.exe.config
+F:\Programs\IT\Programming Language\C#\hfcs\chap6\BeeHive\bin\Debug\BeeHive.exe
+F:\Programs\IT\Programming Language\C#\hfcs\chap6\BeeHive\bin\Debug\BeeHive.pdb
+F:\Programs\IT\Programming Language\C#\hfcs\chap6\BeeHive\obj\Debug\BeeHive.csprojAssemblyReference.cache
+F:\Programs\IT\Programming Language\C#\hfcs\chap6\BeeHive\obj\Debug\BeeHive.Form1.resources
+F:\Programs\IT\Programming Language\C#\hfcs\chap6\BeeHive\obj\Debug\BeeHive.Properties.Resources.resources
+F:\Programs\IT\Programming Language\C#\hfcs\chap6\BeeHive\obj\Debug\BeeHive.csproj.GenerateResource.cache
+F:\Programs\IT\Programming Language\C#\hfcs\chap6\BeeHive\obj\Debug\BeeHive.csproj.CoreCompileInputs.cache
+F:\Programs\IT\Programming Language\C#\hfcs\chap6\BeeHive\obj\Debug\BeeHive.exe
+F:\Programs\IT\Programming Language\C#\hfcs\chap6\BeeHive\obj\Debug\BeeHive.pdb

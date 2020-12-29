@@ -1,0 +1,10 @@
+F:\Programs\IT\Programming Language\C#\hfcs\chap8\PlayingCard\bin\Debug\PlayingCard.exe.config
+F:\Programs\IT\Programming Language\C#\hfcs\chap8\PlayingCard\bin\Debug\PlayingCard.exe
+F:\Programs\IT\Programming Language\C#\hfcs\chap8\PlayingCard\bin\Debug\PlayingCard.pdb
+F:\Programs\IT\Programming Language\C#\hfcs\chap8\PlayingCard\obj\Debug\PlayingCard.csprojAssemblyReference.cache
+F:\Programs\IT\Programming Language\C#\hfcs\chap8\PlayingCard\obj\Debug\PlayingCard.Properties.Resources.resources
+F:\Programs\IT\Programming Language\C#\hfcs\chap8\PlayingCard\obj\Debug\PlayingCard.csproj.GenerateResource.cache
+F:\Programs\IT\Programming Language\C#\hfcs\chap8\PlayingCard\obj\Debug\PlayingCard.csproj.CoreCompileInputs.cache
+F:\Programs\IT\Programming Language\C#\hfcs\chap8\PlayingCard\obj\Debug\PlayingCard.exe
+F:\Programs\IT\Programming Language\C#\hfcs\chap8\PlayingCard\obj\Debug\PlayingCard.pdb
+F:\Programs\IT\Programming Language\C#\hfcs\chap8\PlayingCard\obj\Debug\PlayingCard.Form1.resources

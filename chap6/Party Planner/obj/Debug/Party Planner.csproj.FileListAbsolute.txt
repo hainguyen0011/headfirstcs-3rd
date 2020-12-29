@@ -1,0 +1,9 @@
+E:\Programs\IT\Programming Language\C#\hfcs\chap6\Party Planner\bin\Debug\Party Planner.exe.config
+E:\Programs\IT\Programming Language\C#\hfcs\chap6\Party Planner\bin\Debug\Party Planner.exe
+E:\Programs\IT\Programming Language\C#\hfcs\chap6\Party Planner\bin\Debug\Party Planner.pdb
+E:\Programs\IT\Programming Language\C#\hfcs\chap6\Party Planner\obj\Debug\Party Planner.csprojAssemblyReference.cache
+E:\Programs\IT\Programming Language\C#\hfcs\chap6\Party Planner\obj\Debug\Party_Planner.Form1.resources
+E:\Programs\IT\Programming Language\C#\hfcs\chap6\Party Planner\obj\Debug\Party_Planner.Properties.Resources.resources
+E:\Programs\IT\Programming Language\C#\hfcs\chap6\Party Planner\obj\Debug\Party Planner.csproj.GenerateResource.cache
+E:\Programs\IT\Programming Language\C#\hfcs\chap6\Party Planner\obj\Debug\Party Planner.exe
+E:\Programs\IT\Programming Language\C#\hfcs\chap6\Party Planner\obj\Debug\Party Planner.pdb

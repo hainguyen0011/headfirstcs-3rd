@@ -1,0 +1,9 @@
+E:\Programs\IT\Programming Language\C#\hfcs\appendix\Background Worker\bin\Debug\Background Worker.exe.config
+E:\Programs\IT\Programming Language\C#\hfcs\appendix\Background Worker\bin\Debug\Background Worker.exe
+E:\Programs\IT\Programming Language\C#\hfcs\appendix\Background Worker\bin\Debug\Background Worker.pdb
+E:\Programs\IT\Programming Language\C#\hfcs\appendix\Background Worker\obj\Debug\Background Worker.csprojAssemblyReference.cache
+E:\Programs\IT\Programming Language\C#\hfcs\appendix\Background Worker\obj\Debug\Background_Worker.Form1.resources
+E:\Programs\IT\Programming Language\C#\hfcs\appendix\Background Worker\obj\Debug\Background_Worker.Properties.Resources.resources
+E:\Programs\IT\Programming Language\C#\hfcs\appendix\Background Worker\obj\Debug\Background Worker.csproj.GenerateResource.cache
+E:\Programs\IT\Programming Language\C#\hfcs\appendix\Background Worker\obj\Debug\Background Worker.exe
+E:\Programs\IT\Programming Language\C#\hfcs\appendix\Background Worker\obj\Debug\Background Worker.pdb

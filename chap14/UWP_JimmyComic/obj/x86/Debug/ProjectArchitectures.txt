@@ -1,0 +1,1 @@
+F:\Programs\IT\Programming Language\C#\hfcs\chap14\UWP_JimmyComic\UWP_JimmyComic.csproj;x86

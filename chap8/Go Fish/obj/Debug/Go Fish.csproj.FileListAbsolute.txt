@@ -1,0 +1,10 @@
+F:\Programs\IT\Programming Language\C#\hfcs\chap8\Go Fish\bin\Debug\Go Fish.exe.config
+F:\Programs\IT\Programming Language\C#\hfcs\chap8\Go Fish\bin\Debug\Go Fish.exe
+F:\Programs\IT\Programming Language\C#\hfcs\chap8\Go Fish\bin\Debug\Go Fish.pdb
+F:\Programs\IT\Programming Language\C#\hfcs\chap8\Go Fish\obj\Debug\Go Fish.csprojAssemblyReference.cache
+F:\Programs\IT\Programming Language\C#\hfcs\chap8\Go Fish\obj\Debug\Go_Fish.Form1.resources
+F:\Programs\IT\Programming Language\C#\hfcs\chap8\Go Fish\obj\Debug\Go_Fish.Properties.Resources.resources
+F:\Programs\IT\Programming Language\C#\hfcs\chap8\Go Fish\obj\Debug\Go Fish.csproj.GenerateResource.cache
+F:\Programs\IT\Programming Language\C#\hfcs\chap8\Go Fish\obj\Debug\Go Fish.csproj.CoreCompileInputs.cache
+F:\Programs\IT\Programming Language\C#\hfcs\chap8\Go Fish\obj\Debug\Go Fish.exe
+F:\Programs\IT\Programming Language\C#\hfcs\chap8\Go Fish\obj\Debug\Go Fish.pdb

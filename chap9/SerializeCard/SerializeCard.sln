@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29926.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SerializeCard", "SerializeCard.csproj", "{78D5E3B0-D0ED-41B6-A74F-33F2A9A17249}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{78D5E3B0-D0ED-41B6-A74F-33F2A9A17249}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78D5E3B0-D0ED-41B6-A74F-33F2A9A17249}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78D5E3B0-D0ED-41B6-A74F-33F2A9A17249}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78D5E3B0-D0ED-41B6-A74F-33F2A9A17249}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4618D166-633D-4380-9C56-D2D71A0E4760}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,10 @@
+F:\Programs\IT\Programming Language\C#\hfcs\chap9\UnicodeTest\bin\Debug\UnicodeTest.exe.config
+F:\Programs\IT\Programming Language\C#\hfcs\chap9\UnicodeTest\bin\Debug\UnicodeTest.exe
+F:\Programs\IT\Programming Language\C#\hfcs\chap9\UnicodeTest\bin\Debug\UnicodeTest.pdb
+F:\Programs\IT\Programming Language\C#\hfcs\chap9\UnicodeTest\obj\Debug\UnicodeTest.csprojAssemblyReference.cache
+F:\Programs\IT\Programming Language\C#\hfcs\chap9\UnicodeTest\obj\Debug\UnicodeTest.Form1.resources
+F:\Programs\IT\Programming Language\C#\hfcs\chap9\UnicodeTest\obj\Debug\UnicodeTest.Properties.Resources.resources
+F:\Programs\IT\Programming Language\C#\hfcs\chap9\UnicodeTest\obj\Debug\UnicodeTest.csproj.GenerateResource.cache
+F:\Programs\IT\Programming Language\C#\hfcs\chap9\UnicodeTest\obj\Debug\UnicodeTest.csproj.CoreCompileInputs.cache
+F:\Programs\IT\Programming Language\C#\hfcs\chap9\UnicodeTest\obj\Debug\UnicodeTest.exe
+F:\Programs\IT\Programming Language\C#\hfcs\chap9\UnicodeTest\obj\Debug\UnicodeTest.pdb

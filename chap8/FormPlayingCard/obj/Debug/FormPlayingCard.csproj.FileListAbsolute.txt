@@ -1,0 +1,10 @@
+F:\Programs\IT\Programming Language\C#\hfcs\chap8\FormPlayingCard\bin\Debug\FormPlayingCard.exe.config
+F:\Programs\IT\Programming Language\C#\hfcs\chap8\FormPlayingCard\bin\Debug\FormPlayingCard.exe
+F:\Programs\IT\Programming Language\C#\hfcs\chap8\FormPlayingCard\bin\Debug\FormPlayingCard.pdb
+F:\Programs\IT\Programming Language\C#\hfcs\chap8\FormPlayingCard\obj\Debug\FormPlayingCard.csprojAssemblyReference.cache
+F:\Programs\IT\Programming Language\C#\hfcs\chap8\FormPlayingCard\obj\Debug\FormPlayingCard.Form1.resources
+F:\Programs\IT\Programming Language\C#\hfcs\chap8\FormPlayingCard\obj\Debug\FormPlayingCard.Properties.Resources.resources
+F:\Programs\IT\Programming Language\C#\hfcs\chap8\FormPlayingCard\obj\Debug\FormPlayingCard.csproj.GenerateResource.cache
+F:\Programs\IT\Programming Language\C#\hfcs\chap8\FormPlayingCard\obj\Debug\FormPlayingCard.csproj.CoreCompileInputs.cache
+F:\Programs\IT\Programming Language\C#\hfcs\chap8\FormPlayingCard\obj\Debug\FormPlayingCard.exe
+F:\Programs\IT\Programming Language\C#\hfcs\chap8\FormPlayingCard\obj\Debug\FormPlayingCard.pdb

@@ -1,0 +1,9 @@
+E:\Programs\IT\Programming Language\C#\hfcs\chap3\Exercise\bin\Debug\Exercise.exe.config
+E:\Programs\IT\Programming Language\C#\hfcs\chap3\Exercise\bin\Debug\Exercise.exe
+E:\Programs\IT\Programming Language\C#\hfcs\chap3\Exercise\bin\Debug\Exercise.pdb
+E:\Programs\IT\Programming Language\C#\hfcs\chap3\Exercise\obj\Debug\Exercise.csprojAssemblyReference.cache
+E:\Programs\IT\Programming Language\C#\hfcs\chap3\Exercise\obj\Debug\Exercise.Form1.resources
+E:\Programs\IT\Programming Language\C#\hfcs\chap3\Exercise\obj\Debug\Exercise.Properties.Resources.resources
+E:\Programs\IT\Programming Language\C#\hfcs\chap3\Exercise\obj\Debug\Exercise.csproj.GenerateResource.cache
+E:\Programs\IT\Programming Language\C#\hfcs\chap3\Exercise\obj\Debug\Exercise.exe
+E:\Programs\IT\Programming Language\C#\hfcs\chap3\Exercise\obj\Debug\Exercise.pdb

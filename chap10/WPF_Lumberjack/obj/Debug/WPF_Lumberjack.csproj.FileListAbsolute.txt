@@ -1,0 +1,15 @@
+F:\Programs\IT\Programming Language\C#\hfcs\chap10\WPF_Lumberjack\obj\Debug\WPF_Lumberjack.csprojAssemblyReference.cache
+F:\Programs\IT\Programming Language\C#\hfcs\chap10\WPF_Lumberjack\obj\Debug\App.g.cs
+F:\Programs\IT\Programming Language\C#\hfcs\chap10\WPF_Lumberjack\obj\Debug\WPF_Lumberjack_MarkupCompile.cache
+F:\Programs\IT\Programming Language\C#\hfcs\chap10\WPF_Lumberjack\bin\Debug\WPF_Lumberjack.exe.config
+F:\Programs\IT\Programming Language\C#\hfcs\chap10\WPF_Lumberjack\bin\Debug\WPF_Lumberjack.exe
+F:\Programs\IT\Programming Language\C#\hfcs\chap10\WPF_Lumberjack\bin\Debug\WPF_Lumberjack.pdb
+F:\Programs\IT\Programming Language\C#\hfcs\chap10\WPF_Lumberjack\obj\Debug\MainWindow.g.cs
+F:\Programs\IT\Programming Language\C#\hfcs\chap10\WPF_Lumberjack\obj\Debug\WPF_Lumberjack_MarkupCompile.lref
+F:\Programs\IT\Programming Language\C#\hfcs\chap10\WPF_Lumberjack\obj\Debug\MainWindow.baml
+F:\Programs\IT\Programming Language\C#\hfcs\chap10\WPF_Lumberjack\obj\Debug\WPF_Lumberjack.g.resources
+F:\Programs\IT\Programming Language\C#\hfcs\chap10\WPF_Lumberjack\obj\Debug\WPF_Lumberjack.Properties.Resources.resources
+F:\Programs\IT\Programming Language\C#\hfcs\chap10\WPF_Lumberjack\obj\Debug\WPF_Lumberjack.csproj.GenerateResource.cache
+F:\Programs\IT\Programming Language\C#\hfcs\chap10\WPF_Lumberjack\obj\Debug\WPF_Lumberjack.csproj.CoreCompileInputs.cache
+F:\Programs\IT\Programming Language\C#\hfcs\chap10\WPF_Lumberjack\obj\Debug\WPF_Lumberjack.exe
+F:\Programs\IT\Programming Language\C#\hfcs\chap10\WPF_Lumberjack\obj\Debug\WPF_Lumberjack.pdb

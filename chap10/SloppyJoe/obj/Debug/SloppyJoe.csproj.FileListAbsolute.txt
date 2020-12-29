@@ -1,0 +1,16 @@
+F:\Programs\IT\Programming Language\C#\hfcs\chap10\SloppyJoe\obj\Debug\SloppyJoe.csprojAssemblyReference.cache
+F:\Programs\IT\Programming Language\C#\hfcs\chap10\SloppyJoe\obj\Debug\MainWindow.g.cs
+F:\Programs\IT\Programming Language\C#\hfcs\chap10\SloppyJoe\obj\Debug\App.g.cs
+F:\Programs\IT\Programming Language\C#\hfcs\chap10\SloppyJoe\obj\Debug\SloppyJoe_MarkupCompile.cache
+F:\Programs\IT\Programming Language\C#\hfcs\chap10\SloppyJoe\obj\Debug\SloppyJoe_MarkupCompile.lref
+F:\Programs\IT\Programming Language\C#\hfcs\chap10\SloppyJoe\bin\Debug\SloppyJoe.exe.config
+F:\Programs\IT\Programming Language\C#\hfcs\chap10\SloppyJoe\bin\Debug\SloppyJoe.exe
+F:\Programs\IT\Programming Language\C#\hfcs\chap10\SloppyJoe\bin\Debug\SloppyJoe.pdb
+F:\Programs\IT\Programming Language\C#\hfcs\chap10\SloppyJoe\obj\Debug\MainWindow.baml
+F:\Programs\IT\Programming Language\C#\hfcs\chap10\SloppyJoe\obj\Debug\SloppyJoe.g.resources
+F:\Programs\IT\Programming Language\C#\hfcs\chap10\SloppyJoe\obj\Debug\SloppyJoe.Properties.Resources.resources
+F:\Programs\IT\Programming Language\C#\hfcs\chap10\SloppyJoe\obj\Debug\SloppyJoe.csproj.GenerateResource.cache
+F:\Programs\IT\Programming Language\C#\hfcs\chap10\SloppyJoe\obj\Debug\SloppyJoe.csproj.CoreCompileInputs.cache
+F:\Programs\IT\Programming Language\C#\hfcs\chap10\SloppyJoe\obj\Debug\SloppyJoe.exe
+F:\Programs\IT\Programming Language\C#\hfcs\chap10\SloppyJoe\obj\Debug\SloppyJoe.pdb
+F:\Programs\IT\Programming Language\C#\hfcs\chap10\SloppyJoe\obj\Debug\GeneratedInternalTypeHelper.g.cs

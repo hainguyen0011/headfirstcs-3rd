@@ -1,0 +1,9 @@
+E:\Programs\IT\Programming Language\C#\hfcs\chap5\Estimator\bin\Debug\Estimator.exe.config
+E:\Programs\IT\Programming Language\C#\hfcs\chap5\Estimator\bin\Debug\Estimator.exe
+E:\Programs\IT\Programming Language\C#\hfcs\chap5\Estimator\bin\Debug\Estimator.pdb
+E:\Programs\IT\Programming Language\C#\hfcs\chap5\Estimator\obj\Debug\Estimator.csprojAssemblyReference.cache
+E:\Programs\IT\Programming Language\C#\hfcs\chap5\Estimator\obj\Debug\Estimator.Form1.resources
+E:\Programs\IT\Programming Language\C#\hfcs\chap5\Estimator\obj\Debug\Estimator.Properties.Resources.resources
+E:\Programs\IT\Programming Language\C#\hfcs\chap5\Estimator\obj\Debug\Estimator.csproj.GenerateResource.cache
+E:\Programs\IT\Programming Language\C#\hfcs\chap5\Estimator\obj\Debug\Estimator.exe
+E:\Programs\IT\Programming Language\C#\hfcs\chap5\Estimator\obj\Debug\Estimator.pdb

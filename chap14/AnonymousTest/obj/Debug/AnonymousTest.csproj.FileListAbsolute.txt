@@ -1,0 +1,7 @@
+F:\Programs\IT\Programming Language\C#\hfcs\chap14\AnonymousTest\bin\Debug\AnonymousTest.exe.config
+F:\Programs\IT\Programming Language\C#\hfcs\chap14\AnonymousTest\bin\Debug\AnonymousTest.exe
+F:\Programs\IT\Programming Language\C#\hfcs\chap14\AnonymousTest\bin\Debug\AnonymousTest.pdb
+F:\Programs\IT\Programming Language\C#\hfcs\chap14\AnonymousTest\obj\Debug\AnonymousTest.csprojAssemblyReference.cache
+F:\Programs\IT\Programming Language\C#\hfcs\chap14\AnonymousTest\obj\Debug\AnonymousTest.csproj.CoreCompileInputs.cache
+F:\Programs\IT\Programming Language\C#\hfcs\chap14\AnonymousTest\obj\Debug\AnonymousTest.exe
+F:\Programs\IT\Programming Language\C#\hfcs\chap14\AnonymousTest\obj\Debug\AnonymousTest.pdb

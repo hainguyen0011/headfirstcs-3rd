@@ -1,0 +1,10 @@
+F:\Programs\IT\Programming Language\C#\hfcs\chap7\LongExercise\bin\Debug\LongExercise.exe.config
+F:\Programs\IT\Programming Language\C#\hfcs\chap7\LongExercise\bin\Debug\LongExercise.exe
+F:\Programs\IT\Programming Language\C#\hfcs\chap7\LongExercise\bin\Debug\LongExercise.pdb
+F:\Programs\IT\Programming Language\C#\hfcs\chap7\LongExercise\obj\Debug\LongExercise.csprojAssemblyReference.cache
+F:\Programs\IT\Programming Language\C#\hfcs\chap7\LongExercise\obj\Debug\LongExercise.Form1.resources
+F:\Programs\IT\Programming Language\C#\hfcs\chap7\LongExercise\obj\Debug\LongExercise.Properties.Resources.resources
+F:\Programs\IT\Programming Language\C#\hfcs\chap7\LongExercise\obj\Debug\LongExercise.csproj.GenerateResource.cache
+F:\Programs\IT\Programming Language\C#\hfcs\chap7\LongExercise\obj\Debug\LongExercise.csproj.CoreCompileInputs.cache
+F:\Programs\IT\Programming Language\C#\hfcs\chap7\LongExercise\obj\Debug\LongExercise.exe
+F:\Programs\IT\Programming Language\C#\hfcs\chap7\LongExercise\obj\Debug\LongExercise.pdb

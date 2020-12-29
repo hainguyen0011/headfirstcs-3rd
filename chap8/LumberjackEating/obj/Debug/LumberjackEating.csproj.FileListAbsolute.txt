@@ -1,0 +1,10 @@
+F:\Programs\IT\Programming Language\C#\hfcs\chap8\LumberjackEating\bin\Debug\LumberjackEating.exe.config
+F:\Programs\IT\Programming Language\C#\hfcs\chap8\LumberjackEating\bin\Debug\LumberjackEating.exe
+F:\Programs\IT\Programming Language\C#\hfcs\chap8\LumberjackEating\bin\Debug\LumberjackEating.pdb
+F:\Programs\IT\Programming Language\C#\hfcs\chap8\LumberjackEating\obj\Debug\LumberjackEating.csprojAssemblyReference.cache
+F:\Programs\IT\Programming Language\C#\hfcs\chap8\LumberjackEating\obj\Debug\LumberjackEating.Form1.resources
+F:\Programs\IT\Programming Language\C#\hfcs\chap8\LumberjackEating\obj\Debug\LumberjackEating.Properties.Resources.resources
+F:\Programs\IT\Programming Language\C#\hfcs\chap8\LumberjackEating\obj\Debug\LumberjackEating.csproj.GenerateResource.cache
+F:\Programs\IT\Programming Language\C#\hfcs\chap8\LumberjackEating\obj\Debug\LumberjackEating.csproj.CoreCompileInputs.cache
+F:\Programs\IT\Programming Language\C#\hfcs\chap8\LumberjackEating\obj\Debug\LumberjackEating.exe
+F:\Programs\IT\Programming Language\C#\hfcs\chap8\LumberjackEating\obj\Debug\LumberjackEating.pdb

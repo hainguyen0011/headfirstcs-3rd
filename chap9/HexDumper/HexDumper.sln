@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29926.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HexDumper", "HexDumper.csproj", "{073D1A00-C88B-405F-AA09-DCC24A846F8B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{073D1A00-C88B-405F-AA09-DCC24A846F8B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{073D1A00-C88B-405F-AA09-DCC24A846F8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{073D1A00-C88B-405F-AA09-DCC24A846F8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{073D1A00-C88B-405F-AA09-DCC24A846F8B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {62CE2CC6-2A90-4161-9F06-794C840BC794}
+	EndGlobalSection
+EndGlobal

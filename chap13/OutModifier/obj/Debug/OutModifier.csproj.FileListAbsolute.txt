@@ -1,0 +1,10 @@
+F:\Programs\IT\Programming Language\C#\hfcs\chap13\OutModifier\obj\Debug\OutModifier.csprojAssemblyReference.cache
+F:\Programs\IT\Programming Language\C#\hfcs\chap13\OutModifier\obj\Debug\OutModifier.Form1.resources
+F:\Programs\IT\Programming Language\C#\hfcs\chap13\OutModifier\obj\Debug\OutModifier.Properties.Resources.resources
+F:\Programs\IT\Programming Language\C#\hfcs\chap13\OutModifier\obj\Debug\OutModifier.csproj.GenerateResource.cache
+F:\Programs\IT\Programming Language\C#\hfcs\chap13\OutModifier\obj\Debug\OutModifier.csproj.CoreCompileInputs.cache
+F:\Programs\IT\Programming Language\C#\hfcs\chap13\OutModifier\bin\Debug\OutModifier.exe.config
+F:\Programs\IT\Programming Language\C#\hfcs\chap13\OutModifier\bin\Debug\OutModifier.exe
+F:\Programs\IT\Programming Language\C#\hfcs\chap13\OutModifier\bin\Debug\OutModifier.pdb
+F:\Programs\IT\Programming Language\C#\hfcs\chap13\OutModifier\obj\Debug\OutModifier.exe
+F:\Programs\IT\Programming Language\C#\hfcs\chap13\OutModifier\obj\Debug\OutModifier.pdb

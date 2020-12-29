@@ -1,0 +1,9 @@
+E:\Programs\IT\Programming Language\C#\hfcs\chap5\Farmer\bin\Debug\Farmer.exe.config
+E:\Programs\IT\Programming Language\C#\hfcs\chap5\Farmer\bin\Debug\Farmer.exe
+E:\Programs\IT\Programming Language\C#\hfcs\chap5\Farmer\bin\Debug\Farmer.pdb
+E:\Programs\IT\Programming Language\C#\hfcs\chap5\Farmer\obj\Debug\Farmer.csprojAssemblyReference.cache
+E:\Programs\IT\Programming Language\C#\hfcs\chap5\Farmer\obj\Debug\Farmer.Form1.resources
+E:\Programs\IT\Programming Language\C#\hfcs\chap5\Farmer\obj\Debug\Farmer.Properties.Resources.resources
+E:\Programs\IT\Programming Language\C#\hfcs\chap5\Farmer\obj\Debug\Farmer.csproj.GenerateResource.cache
+E:\Programs\IT\Programming Language\C#\hfcs\chap5\Farmer\obj\Debug\Farmer.exe
+E:\Programs\IT\Programming Language\C#\hfcs\chap5\Farmer\obj\Debug\Farmer.pdb

@@ -1,0 +1,16 @@
+F:\Programs\IT\Programming Language\C#\hfcs\chap10\WPF_GoFish\bin\Debug\WPF_GoFish.exe.config
+F:\Programs\IT\Programming Language\C#\hfcs\chap10\WPF_GoFish\bin\Debug\WPF_GoFish.exe
+F:\Programs\IT\Programming Language\C#\hfcs\chap10\WPF_GoFish\bin\Debug\WPF_GoFish.pdb
+F:\Programs\IT\Programming Language\C#\hfcs\chap10\WPF_GoFish\obj\Debug\WPF_GoFish.csprojAssemblyReference.cache
+F:\Programs\IT\Programming Language\C#\hfcs\chap10\WPF_GoFish\obj\Debug\MainWindow.g.cs
+F:\Programs\IT\Programming Language\C#\hfcs\chap10\WPF_GoFish\obj\Debug\App.g.cs
+F:\Programs\IT\Programming Language\C#\hfcs\chap10\WPF_GoFish\obj\Debug\WPF_GoFish_MarkupCompile.cache
+F:\Programs\IT\Programming Language\C#\hfcs\chap10\WPF_GoFish\obj\Debug\WPF_GoFish_MarkupCompile.lref
+F:\Programs\IT\Programming Language\C#\hfcs\chap10\WPF_GoFish\obj\Debug\MainWindow.baml
+F:\Programs\IT\Programming Language\C#\hfcs\chap10\WPF_GoFish\obj\Debug\WPF_GoFish.g.resources
+F:\Programs\IT\Programming Language\C#\hfcs\chap10\WPF_GoFish\obj\Debug\WPF_GoFish.Properties.Resources.resources
+F:\Programs\IT\Programming Language\C#\hfcs\chap10\WPF_GoFish\obj\Debug\WPF_GoFish.csproj.GenerateResource.cache
+F:\Programs\IT\Programming Language\C#\hfcs\chap10\WPF_GoFish\obj\Debug\WPF_GoFish.csproj.CoreCompileInputs.cache
+F:\Programs\IT\Programming Language\C#\hfcs\chap10\WPF_GoFish\obj\Debug\WPF_GoFish.exe
+F:\Programs\IT\Programming Language\C#\hfcs\chap10\WPF_GoFish\obj\Debug\WPF_GoFish.pdb
+F:\Programs\IT\Programming Language\C#\hfcs\chap10\WPF_GoFish\obj\Debug\GeneratedInternalTypeHelper.g.cs

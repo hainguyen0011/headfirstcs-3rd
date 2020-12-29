@@ -1,0 +1,15 @@
+F:\Programs\IT\Programming Language\C#\hfcs\chap10\WPF_Beehive\bin\Debug\WPF_Beehive.exe.config
+F:\Programs\IT\Programming Language\C#\hfcs\chap10\WPF_Beehive\bin\Debug\WPF_Beehive.exe
+F:\Programs\IT\Programming Language\C#\hfcs\chap10\WPF_Beehive\bin\Debug\WPF_Beehive.pdb
+F:\Programs\IT\Programming Language\C#\hfcs\chap10\WPF_Beehive\obj\Debug\WPF_Beehive.csprojAssemblyReference.cache
+F:\Programs\IT\Programming Language\C#\hfcs\chap10\WPF_Beehive\obj\Debug\MainWindow.g.cs
+F:\Programs\IT\Programming Language\C#\hfcs\chap10\WPF_Beehive\obj\Debug\App.g.cs
+F:\Programs\IT\Programming Language\C#\hfcs\chap10\WPF_Beehive\obj\Debug\WPF_Beehive_MarkupCompile.cache
+F:\Programs\IT\Programming Language\C#\hfcs\chap10\WPF_Beehive\obj\Debug\WPF_Beehive_MarkupCompile.lref
+F:\Programs\IT\Programming Language\C#\hfcs\chap10\WPF_Beehive\obj\Debug\MainWindow.baml
+F:\Programs\IT\Programming Language\C#\hfcs\chap10\WPF_Beehive\obj\Debug\WPF_Beehive.g.resources
+F:\Programs\IT\Programming Language\C#\hfcs\chap10\WPF_Beehive\obj\Debug\WPF_Beehive.Properties.Resources.resources
+F:\Programs\IT\Programming Language\C#\hfcs\chap10\WPF_Beehive\obj\Debug\WPF_Beehive.csproj.GenerateResource.cache
+F:\Programs\IT\Programming Language\C#\hfcs\chap10\WPF_Beehive\obj\Debug\WPF_Beehive.csproj.CoreCompileInputs.cache
+F:\Programs\IT\Programming Language\C#\hfcs\chap10\WPF_Beehive\obj\Debug\WPF_Beehive.exe
+F:\Programs\IT\Programming Language\C#\hfcs\chap10\WPF_Beehive\obj\Debug\WPF_Beehive.pdb

@@ -1,0 +1,7 @@
+F:\Programs\IT\Programming Language\C#\hfcs\chap8\DuckConsole\bin\Debug\DuckConsole.exe.config
+F:\Programs\IT\Programming Language\C#\hfcs\chap8\DuckConsole\bin\Debug\DuckConsole.exe
+F:\Programs\IT\Programming Language\C#\hfcs\chap8\DuckConsole\bin\Debug\DuckConsole.pdb
+F:\Programs\IT\Programming Language\C#\hfcs\chap8\DuckConsole\obj\Debug\DuckConsole.csproj.CoreCompileInputs.cache
+F:\Programs\IT\Programming Language\C#\hfcs\chap8\DuckConsole\obj\Debug\DuckConsole.exe
+F:\Programs\IT\Programming Language\C#\hfcs\chap8\DuckConsole\obj\Debug\DuckConsole.pdb
+F:\Programs\IT\Programming Language\C#\hfcs\chap8\DuckConsole\obj\Debug\DuckConsole.csprojAssemblyReference.cache

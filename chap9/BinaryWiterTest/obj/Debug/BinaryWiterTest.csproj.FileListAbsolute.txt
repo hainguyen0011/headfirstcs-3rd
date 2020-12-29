@@ -1,0 +1,7 @@
+F:\Programs\IT\Programming Language\C#\hfcs\chap9\BinaryWiterTest\bin\Debug\BinaryWiterTest.exe.config
+F:\Programs\IT\Programming Language\C#\hfcs\chap9\BinaryWiterTest\bin\Debug\BinaryWiterTest.exe
+F:\Programs\IT\Programming Language\C#\hfcs\chap9\BinaryWiterTest\bin\Debug\BinaryWiterTest.pdb
+F:\Programs\IT\Programming Language\C#\hfcs\chap9\BinaryWiterTest\obj\Debug\BinaryWiterTest.csprojAssemblyReference.cache
+F:\Programs\IT\Programming Language\C#\hfcs\chap9\BinaryWiterTest\obj\Debug\BinaryWiterTest.csproj.CoreCompileInputs.cache
+F:\Programs\IT\Programming Language\C#\hfcs\chap9\BinaryWiterTest\obj\Debug\BinaryWiterTest.exe
+F:\Programs\IT\Programming Language\C#\hfcs\chap9\BinaryWiterTest\obj\Debug\BinaryWiterTest.pdb

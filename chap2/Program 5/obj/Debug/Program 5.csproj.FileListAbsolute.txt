@@ -1,0 +1,19 @@
+E:\Programs\IT\Programming Language\C#\hfcs\chap2\Program 5\bin\Debug\Program 5.exe.config
+E:\Programs\IT\Programming Language\C#\hfcs\chap2\Program 5\bin\Debug\Program 5.exe
+E:\Programs\IT\Programming Language\C#\hfcs\chap2\Program 5\bin\Debug\Program 5.pdb
+E:\Programs\IT\Programming Language\C#\hfcs\chap2\Program 5\obj\Debug\Program 5.csprojAssemblyReference.cache
+E:\Programs\IT\Programming Language\C#\hfcs\chap2\Program 5\obj\Debug\Program_5.Form1.resources
+E:\Programs\IT\Programming Language\C#\hfcs\chap2\Program 5\obj\Debug\Program_5.Properties.Resources.resources
+E:\Programs\IT\Programming Language\C#\hfcs\chap2\Program 5\obj\Debug\Program 5.csproj.GenerateResource.cache
+E:\Programs\IT\Programming Language\C#\hfcs\chap2\Program 5\obj\Debug\Program 5.exe
+E:\Programs\IT\Programming Language\C#\hfcs\chap2\Program 5\obj\Debug\Program 5.pdb
+F:\Programs\IT\Programming Language\C#\hfcs\chap2\Program 5\bin\Debug\Program 5.exe.config
+F:\Programs\IT\Programming Language\C#\hfcs\chap2\Program 5\bin\Debug\Program 5.exe
+F:\Programs\IT\Programming Language\C#\hfcs\chap2\Program 5\bin\Debug\Program 5.pdb
+F:\Programs\IT\Programming Language\C#\hfcs\chap2\Program 5\obj\Debug\Program 5.csprojAssemblyReference.cache
+F:\Programs\IT\Programming Language\C#\hfcs\chap2\Program 5\obj\Debug\Program_5.Form1.resources
+F:\Programs\IT\Programming Language\C#\hfcs\chap2\Program 5\obj\Debug\Program_5.Properties.Resources.resources
+F:\Programs\IT\Programming Language\C#\hfcs\chap2\Program 5\obj\Debug\Program 5.csproj.GenerateResource.cache
+F:\Programs\IT\Programming Language\C#\hfcs\chap2\Program 5\obj\Debug\Program 5.csproj.CoreCompileInputs.cache
+F:\Programs\IT\Programming Language\C#\hfcs\chap2\Program 5\obj\Debug\Program 5.exe
+F:\Programs\IT\Programming Language\C#\hfcs\chap2\Program 5\obj\Debug\Program 5.pdb

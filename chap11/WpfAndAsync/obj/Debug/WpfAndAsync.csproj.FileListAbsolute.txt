@@ -1,0 +1,15 @@
+F:\Programs\IT\Programming Language\C#\hfcs\chap11\WpfAndAsync\bin\Debug\WpfAndAsync.exe.config
+F:\Programs\IT\Programming Language\C#\hfcs\chap11\WpfAndAsync\bin\Debug\WpfAndAsync.exe
+F:\Programs\IT\Programming Language\C#\hfcs\chap11\WpfAndAsync\bin\Debug\WpfAndAsync.pdb
+F:\Programs\IT\Programming Language\C#\hfcs\chap11\WpfAndAsync\obj\Debug\WpfAndAsync.csprojAssemblyReference.cache
+F:\Programs\IT\Programming Language\C#\hfcs\chap11\WpfAndAsync\obj\Debug\MainWindow.g.cs
+F:\Programs\IT\Programming Language\C#\hfcs\chap11\WpfAndAsync\obj\Debug\App.g.cs
+F:\Programs\IT\Programming Language\C#\hfcs\chap11\WpfAndAsync\obj\Debug\WpfAndAsync_MarkupCompile.cache
+F:\Programs\IT\Programming Language\C#\hfcs\chap11\WpfAndAsync\obj\Debug\WpfAndAsync_MarkupCompile.lref
+F:\Programs\IT\Programming Language\C#\hfcs\chap11\WpfAndAsync\obj\Debug\MainWindow.baml
+F:\Programs\IT\Programming Language\C#\hfcs\chap11\WpfAndAsync\obj\Debug\WpfAndAsync.g.resources
+F:\Programs\IT\Programming Language\C#\hfcs\chap11\WpfAndAsync\obj\Debug\WpfAndAsync.Properties.Resources.resources
+F:\Programs\IT\Programming Language\C#\hfcs\chap11\WpfAndAsync\obj\Debug\WpfAndAsync.csproj.GenerateResource.cache
+F:\Programs\IT\Programming Language\C#\hfcs\chap11\WpfAndAsync\obj\Debug\WpfAndAsync.csproj.CoreCompileInputs.cache
+F:\Programs\IT\Programming Language\C#\hfcs\chap11\WpfAndAsync\obj\Debug\WpfAndAsync.exe
+F:\Programs\IT\Programming Language\C#\hfcs\chap11\WpfAndAsync\obj\Debug\WpfAndAsync.pdb

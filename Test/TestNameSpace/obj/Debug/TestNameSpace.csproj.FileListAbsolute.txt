@@ -1,0 +1,7 @@
+F:\Programs\IT\Programming Language\C#\hfcs\Test\TestNameSpace\bin\Debug\TestNameSpace.exe.config
+F:\Programs\IT\Programming Language\C#\hfcs\Test\TestNameSpace\bin\Debug\TestNameSpace.exe
+F:\Programs\IT\Programming Language\C#\hfcs\Test\TestNameSpace\bin\Debug\TestNameSpace.pdb
+F:\Programs\IT\Programming Language\C#\hfcs\Test\TestNameSpace\obj\Debug\TestNameSpace.csprojAssemblyReference.cache
+F:\Programs\IT\Programming Language\C#\hfcs\Test\TestNameSpace\obj\Debug\TestNameSpace.csproj.CoreCompileInputs.cache
+F:\Programs\IT\Programming Language\C#\hfcs\Test\TestNameSpace\obj\Debug\TestNameSpace.exe
+F:\Programs\IT\Programming Language\C#\hfcs\Test\TestNameSpace\obj\Debug\TestNameSpace.pdb

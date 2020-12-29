@@ -1,0 +1,7 @@
+F:\Programs\IT\Programming Language\C#\hfcs\chap8\PlayingCard_Part2\bin\Debug\PlayingCard_Part2.exe.config
+F:\Programs\IT\Programming Language\C#\hfcs\chap8\PlayingCard_Part2\bin\Debug\PlayingCard_Part2.exe
+F:\Programs\IT\Programming Language\C#\hfcs\chap8\PlayingCard_Part2\bin\Debug\PlayingCard_Part2.pdb
+F:\Programs\IT\Programming Language\C#\hfcs\chap8\PlayingCard_Part2\obj\Debug\PlayingCard_Part2.csprojAssemblyReference.cache
+F:\Programs\IT\Programming Language\C#\hfcs\chap8\PlayingCard_Part2\obj\Debug\PlayingCard_Part2.csproj.CoreCompileInputs.cache
+F:\Programs\IT\Programming Language\C#\hfcs\chap8\PlayingCard_Part2\obj\Debug\PlayingCard_Part2.exe
+F:\Programs\IT\Programming Language\C#\hfcs\chap8\PlayingCard_Part2\obj\Debug\PlayingCard_Part2.pdb

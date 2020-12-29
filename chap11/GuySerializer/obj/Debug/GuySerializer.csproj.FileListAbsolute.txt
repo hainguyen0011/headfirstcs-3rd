@@ -1,0 +1,16 @@
+F:\Programs\IT\Programming Language\C#\hfcs\chap11\GuySerializer\obj\Debug\MainWindow.g.cs
+F:\Programs\IT\Programming Language\C#\hfcs\chap11\GuySerializer\obj\Debug\App.g.cs
+F:\Programs\IT\Programming Language\C#\hfcs\chap11\GuySerializer\obj\Debug\GeneratedInternalTypeHelper.g.cs
+F:\Programs\IT\Programming Language\C#\hfcs\chap11\GuySerializer\obj\Debug\GuySerializer_MarkupCompile.cache
+F:\Programs\IT\Programming Language\C#\hfcs\chap11\GuySerializer\obj\Debug\GuySerializer_MarkupCompile.lref
+F:\Programs\IT\Programming Language\C#\hfcs\chap11\GuySerializer\bin\Debug\GuySerializer.exe.config
+F:\Programs\IT\Programming Language\C#\hfcs\chap11\GuySerializer\bin\Debug\GuySerializer.exe
+F:\Programs\IT\Programming Language\C#\hfcs\chap11\GuySerializer\bin\Debug\GuySerializer.pdb
+F:\Programs\IT\Programming Language\C#\hfcs\chap11\GuySerializer\obj\Debug\MainWindow.baml
+F:\Programs\IT\Programming Language\C#\hfcs\chap11\GuySerializer\obj\Debug\GuySerializer.g.resources
+F:\Programs\IT\Programming Language\C#\hfcs\chap11\GuySerializer\obj\Debug\GuySerializer.Properties.Resources.resources
+F:\Programs\IT\Programming Language\C#\hfcs\chap11\GuySerializer\obj\Debug\GuySerializer.csproj.GenerateResource.cache
+F:\Programs\IT\Programming Language\C#\hfcs\chap11\GuySerializer\obj\Debug\GuySerializer.csproj.CoreCompileInputs.cache
+F:\Programs\IT\Programming Language\C#\hfcs\chap11\GuySerializer\obj\Debug\GuySerializer.exe
+F:\Programs\IT\Programming Language\C#\hfcs\chap11\GuySerializer\obj\Debug\GuySerializer.pdb
+F:\Programs\IT\Programming Language\C#\hfcs\chap11\GuySerializer\obj\Debug\GuySerializer.csprojAssemblyReference.cache

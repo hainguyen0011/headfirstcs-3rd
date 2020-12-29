@@ -1,0 +1,10 @@
+F:\Programs\IT\Programming Language\C#\hfcs\chap7\LongExercise_Part2\obj\Debug\LongExercise_Part2.csprojAssemblyReference.cache
+F:\Programs\IT\Programming Language\C#\hfcs\chap7\LongExercise_Part2\obj\Debug\LongExercise_Part2.Properties.Resources.resources
+F:\Programs\IT\Programming Language\C#\hfcs\chap7\LongExercise_Part2\obj\Debug\LongExercise_Part2.csproj.GenerateResource.cache
+F:\Programs\IT\Programming Language\C#\hfcs\chap7\LongExercise_Part2\obj\Debug\LongExercise_Part2.csproj.CoreCompileInputs.cache
+F:\Programs\IT\Programming Language\C#\hfcs\chap7\LongExercise_Part2\bin\Debug\LongExercise_Part2.exe.config
+F:\Programs\IT\Programming Language\C#\hfcs\chap7\LongExercise_Part2\bin\Debug\LongExercise_Part2.exe
+F:\Programs\IT\Programming Language\C#\hfcs\chap7\LongExercise_Part2\bin\Debug\LongExercise_Part2.pdb
+F:\Programs\IT\Programming Language\C#\hfcs\chap7\LongExercise_Part2\obj\Debug\LongExercise_Part2.Form1.resources
+F:\Programs\IT\Programming Language\C#\hfcs\chap7\LongExercise_Part2\obj\Debug\LongExercise_Part2.exe
+F:\Programs\IT\Programming Language\C#\hfcs\chap7\LongExercise_Part2\obj\Debug\LongExercise_Part2.pdb

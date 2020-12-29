@@ -1,0 +1,10 @@
+F:\Programs\IT\Programming Language\C#\hfcs\chap8\FirstDictionaryProgram\bin\Debug\FirstDictionaryProgram.exe.config
+F:\Programs\IT\Programming Language\C#\hfcs\chap8\FirstDictionaryProgram\bin\Debug\FirstDictionaryProgram.exe
+F:\Programs\IT\Programming Language\C#\hfcs\chap8\FirstDictionaryProgram\bin\Debug\FirstDictionaryProgram.pdb
+F:\Programs\IT\Programming Language\C#\hfcs\chap8\FirstDictionaryProgram\obj\Debug\FirstDictionaryProgram.csprojAssemblyReference.cache
+F:\Programs\IT\Programming Language\C#\hfcs\chap8\FirstDictionaryProgram\obj\Debug\FirstDictionaryProgram.Form1.resources
+F:\Programs\IT\Programming Language\C#\hfcs\chap8\FirstDictionaryProgram\obj\Debug\FirstDictionaryProgram.Properties.Resources.resources
+F:\Programs\IT\Programming Language\C#\hfcs\chap8\FirstDictionaryProgram\obj\Debug\FirstDictionaryProgram.csproj.GenerateResource.cache
+F:\Programs\IT\Programming Language\C#\hfcs\chap8\FirstDictionaryProgram\obj\Debug\FirstDictionaryProgram.csproj.CoreCompileInputs.cache
+F:\Programs\IT\Programming Language\C#\hfcs\chap8\FirstDictionaryProgram\obj\Debug\FirstDictionaryProgram.exe
+F:\Programs\IT\Programming Language\C#\hfcs\chap8\FirstDictionaryProgram\obj\Debug\FirstDictionaryProgram.pdb

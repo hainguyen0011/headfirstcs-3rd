@@ -1,0 +1,7 @@
+F:\Programs\IT\Programming Language\C#\hfcs\chap7\ConsoleClown\bin\Debug\ConsoleClown.exe.config
+F:\Programs\IT\Programming Language\C#\hfcs\chap7\ConsoleClown\bin\Debug\ConsoleClown.exe
+F:\Programs\IT\Programming Language\C#\hfcs\chap7\ConsoleClown\bin\Debug\ConsoleClown.pdb
+F:\Programs\IT\Programming Language\C#\hfcs\chap7\ConsoleClown\obj\Debug\ConsoleClown.csprojAssemblyReference.cache
+F:\Programs\IT\Programming Language\C#\hfcs\chap7\ConsoleClown\obj\Debug\ConsoleClown.csproj.CoreCompileInputs.cache
+F:\Programs\IT\Programming Language\C#\hfcs\chap7\ConsoleClown\obj\Debug\ConsoleClown.exe
+F:\Programs\IT\Programming Language\C#\hfcs\chap7\ConsoleClown\obj\Debug\ConsoleClown.pdb

@@ -1,0 +1,10 @@
+F:\Programs\IT\Programming Language\C#\hfcs\appendix\Appendix3\MyProject\bin\Debug\MyProject.exe.config
+F:\Programs\IT\Programming Language\C#\hfcs\appendix\Appendix3\MyProject\bin\Debug\MyProject.exe
+F:\Programs\IT\Programming Language\C#\hfcs\appendix\Appendix3\MyProject\bin\Debug\MyProject.pdb
+F:\Programs\IT\Programming Language\C#\hfcs\appendix\Appendix3\MyProject\bin\Debug\Headfirst.Csharp.Leftover3.dll
+F:\Programs\IT\Programming Language\C#\hfcs\appendix\Appendix3\MyProject\bin\Debug\Headfirst.Csharp.Leftover3.pdb
+F:\Programs\IT\Programming Language\C#\hfcs\appendix\Appendix3\MyProject\obj\Debug\MyProject.csprojAssemblyReference.cache
+F:\Programs\IT\Programming Language\C#\hfcs\appendix\Appendix3\MyProject\obj\Debug\MyProject.csproj.CoreCompileInputs.cache
+F:\Programs\IT\Programming Language\C#\hfcs\appendix\Appendix3\MyProject\obj\Debug\MyProject.csproj.CopyComplete
+F:\Programs\IT\Programming Language\C#\hfcs\appendix\Appendix3\MyProject\obj\Debug\MyProject.exe
+F:\Programs\IT\Programming Language\C#\hfcs\appendix\Appendix3\MyProject\obj\Debug\MyProject.pdb

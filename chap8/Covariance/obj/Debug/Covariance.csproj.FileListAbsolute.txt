@@ -1,0 +1,7 @@
+F:\Programs\IT\Programming Language\C#\hfcs\chap8\Covariance\bin\Debug\Covariance.exe.config
+F:\Programs\IT\Programming Language\C#\hfcs\chap8\Covariance\bin\Debug\Covariance.exe
+F:\Programs\IT\Programming Language\C#\hfcs\chap8\Covariance\bin\Debug\Covariance.pdb
+F:\Programs\IT\Programming Language\C#\hfcs\chap8\Covariance\obj\Debug\Covariance.csprojAssemblyReference.cache
+F:\Programs\IT\Programming Language\C#\hfcs\chap8\Covariance\obj\Debug\Covariance.csproj.CoreCompileInputs.cache
+F:\Programs\IT\Programming Language\C#\hfcs\chap8\Covariance\obj\Debug\Covariance.exe
+F:\Programs\IT\Programming Language\C#\hfcs\chap8\Covariance\obj\Debug\Covariance.pdb

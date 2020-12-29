@@ -1,0 +1,10 @@
+F:\Programs\IT\Programming Language\C#\hfcs\chap9\SerializeCard\bin\Debug\SerializeCard.exe.config
+F:\Programs\IT\Programming Language\C#\hfcs\chap9\SerializeCard\bin\Debug\SerializeCard.exe
+F:\Programs\IT\Programming Language\C#\hfcs\chap9\SerializeCard\bin\Debug\SerializeCard.pdb
+F:\Programs\IT\Programming Language\C#\hfcs\chap9\SerializeCard\obj\Debug\SerializeCard.csprojAssemblyReference.cache
+F:\Programs\IT\Programming Language\C#\hfcs\chap9\SerializeCard\obj\Debug\SerializeCard.Form1.resources
+F:\Programs\IT\Programming Language\C#\hfcs\chap9\SerializeCard\obj\Debug\SerializeCard.Properties.Resources.resources
+F:\Programs\IT\Programming Language\C#\hfcs\chap9\SerializeCard\obj\Debug\SerializeCard.csproj.GenerateResource.cache
+F:\Programs\IT\Programming Language\C#\hfcs\chap9\SerializeCard\obj\Debug\SerializeCard.csproj.CoreCompileInputs.cache
+F:\Programs\IT\Programming Language\C#\hfcs\chap9\SerializeCard\obj\Debug\SerializeCard.exe
+F:\Programs\IT\Programming Language\C#\hfcs\chap9\SerializeCard\obj\Debug\SerializeCard.pdb

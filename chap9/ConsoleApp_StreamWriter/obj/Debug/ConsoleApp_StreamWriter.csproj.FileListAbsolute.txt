@@ -1,0 +1,7 @@
+F:\Programs\IT\Programming Language\C#\hfcs\chap9\ConsoleApp_StreamWriter\bin\Debug\ConsoleApp_StreamWriter.exe.config
+F:\Programs\IT\Programming Language\C#\hfcs\chap9\ConsoleApp_StreamWriter\bin\Debug\ConsoleApp_StreamWriter.exe
+F:\Programs\IT\Programming Language\C#\hfcs\chap9\ConsoleApp_StreamWriter\bin\Debug\ConsoleApp_StreamWriter.pdb
+F:\Programs\IT\Programming Language\C#\hfcs\chap9\ConsoleApp_StreamWriter\obj\Debug\ConsoleApp_StreamWriter.csprojAssemblyReference.cache
+F:\Programs\IT\Programming Language\C#\hfcs\chap9\ConsoleApp_StreamWriter\obj\Debug\ConsoleApp_StreamWriter.csproj.CoreCompileInputs.cache
+F:\Programs\IT\Programming Language\C#\hfcs\chap9\ConsoleApp_StreamWriter\obj\Debug\ConsoleApp_StreamWriter.exe
+F:\Programs\IT\Programming Language\C#\hfcs\chap9\ConsoleApp_StreamWriter\obj\Debug\ConsoleApp_StreamWriter.pdb

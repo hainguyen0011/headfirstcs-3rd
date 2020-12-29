@@ -1,0 +1,18 @@
+E:\Programs\IT\Programming Language\C#\hfcs\Lab 1\bin\Debug\Lab 1.exe.config
+E:\Programs\IT\Programming Language\C#\hfcs\Lab 1\bin\Debug\Lab 1.exe
+E:\Programs\IT\Programming Language\C#\hfcs\Lab 1\bin\Debug\Lab 1.pdb
+E:\Programs\IT\Programming Language\C#\hfcs\Lab 1\obj\Debug\Lab 1.csprojAssemblyReference.cache
+E:\Programs\IT\Programming Language\C#\hfcs\Lab 1\obj\Debug\Lab_1.Form1.resources
+E:\Programs\IT\Programming Language\C#\hfcs\Lab 1\obj\Debug\Lab_1.Properties.Resources.resources
+E:\Programs\IT\Programming Language\C#\hfcs\Lab 1\obj\Debug\Lab 1.csproj.GenerateResource.cache
+E:\Programs\IT\Programming Language\C#\hfcs\Lab 1\obj\Debug\Lab 1.exe
+E:\Programs\IT\Programming Language\C#\hfcs\Lab 1\obj\Debug\Lab 1.pdb
+F:\Programs\IT\Programming Language\C#\hfcs\Lab 1\bin\Debug\Lab 1.exe.config
+F:\Programs\IT\Programming Language\C#\hfcs\Lab 1\bin\Debug\Lab 1.exe
+F:\Programs\IT\Programming Language\C#\hfcs\Lab 1\bin\Debug\Lab 1.pdb
+F:\Programs\IT\Programming Language\C#\hfcs\Lab 1\obj\Debug\Lab_1.Form1.resources
+F:\Programs\IT\Programming Language\C#\hfcs\Lab 1\obj\Debug\Lab_1.Properties.Resources.resources
+F:\Programs\IT\Programming Language\C#\hfcs\Lab 1\obj\Debug\Lab 1.csproj.GenerateResource.cache
+F:\Programs\IT\Programming Language\C#\hfcs\Lab 1\obj\Debug\Lab 1.csproj.CoreCompileInputs.cache
+F:\Programs\IT\Programming Language\C#\hfcs\Lab 1\obj\Debug\Lab 1.exe
+F:\Programs\IT\Programming Language\C#\hfcs\Lab 1\obj\Debug\Lab 1.pdb

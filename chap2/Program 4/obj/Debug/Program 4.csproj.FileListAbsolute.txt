@@ -1,0 +1,9 @@
+E:\Programs\IT\Programming Language\C#\hfcs\chap2\Program 4\bin\Debug\Program 4.exe.config
+E:\Programs\IT\Programming Language\C#\hfcs\chap2\Program 4\bin\Debug\Program 4.exe
+E:\Programs\IT\Programming Language\C#\hfcs\chap2\Program 4\bin\Debug\Program 4.pdb
+E:\Programs\IT\Programming Language\C#\hfcs\chap2\Program 4\obj\Debug\Program 4.csprojAssemblyReference.cache
+E:\Programs\IT\Programming Language\C#\hfcs\chap2\Program 4\obj\Debug\Program_4.Form1.resources
+E:\Programs\IT\Programming Language\C#\hfcs\chap2\Program 4\obj\Debug\Program_4.Properties.Resources.resources
+E:\Programs\IT\Programming Language\C#\hfcs\chap2\Program 4\obj\Debug\Program 4.csproj.GenerateResource.cache
+E:\Programs\IT\Programming Language\C#\hfcs\chap2\Program 4\obj\Debug\Program 4.exe
+E:\Programs\IT\Programming Language\C#\hfcs\chap2\Program 4\obj\Debug\Program 4.pdb

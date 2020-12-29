@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29326.143
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Estimator", "Estimator.csproj", "{CB9C15BD-337F-446E-86BF-824C066719C3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CB9C15BD-337F-446E-86BF-824C066719C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CB9C15BD-337F-446E-86BF-824C066719C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CB9C15BD-337F-446E-86BF-824C066719C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CB9C15BD-337F-446E-86BF-824C066719C3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6C83D01A-F871-4783-9CE8-C4C5B0142F3A}
+	EndGlobalSection
+EndGlobal
