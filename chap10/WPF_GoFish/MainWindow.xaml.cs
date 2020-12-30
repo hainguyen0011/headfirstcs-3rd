@@ -21,7 +21,8 @@ namespace WPF_GoFish
     /// </summary>
     public partial class MainWindow : Window
     {
-        Game game;
+        private Game game;
+
         public MainWindow()
         {
             InitializeComponent();
